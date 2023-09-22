@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ModuleV450-rescue")(type "KiCad")(uri "${KIPRJMOD}/ModuleV450-rescue.kicad_sym")(options "")(descr ""))
+)
